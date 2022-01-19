@@ -18,11 +18,4 @@
 </div>
 
   #
-  
-  ### Sou desenvolvedor de software
-  
-  <div>
-    
-    ![Snake animation](https://github.com/VictorRejala/VictorRejala/blob/output/github-contribution-grid-snake.svg)
-    
-  </div>
+ 
