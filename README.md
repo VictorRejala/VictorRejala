@@ -15,6 +15,9 @@
   <img align="center" alt="Victor-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  ![Snake animation](https://github.com/VictorRejala/VictorRejala/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
   #
