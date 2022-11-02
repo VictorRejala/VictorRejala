@@ -1,4 +1,4 @@
-# Hello World, I'm Victor Rejala
+# Hello World
 
 <div align="center">
   <a href="https://github.com/VictorRejala">
